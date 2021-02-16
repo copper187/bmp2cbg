@@ -1,0 +1,11 @@
+﻿  bmp2cbg.cpp
+Z:\Src\BGIcbgconverter_OnGithub_bmp2cbg\bmp2cbg\bmp2cbg.cpp(92,25): warning C4018: “<”: 有符号/无符号不匹配
+Z:\Src\BGIcbgconverter_OnGithub_bmp2cbg\bmp2cbg\bmp2cbg.cpp(94,23): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+Z:\Src\BGIcbgconverter_OnGithub_bmp2cbg\bmp2cbg\bmp2cbg.cpp(103,46): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Z:\Src\BGIcbgconverter_OnGithub_bmp2cbg\bmp2cbg\bmp2cbg.cpp(119,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 151 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bmp2cbg.vcxproj -> Z:\Src\BGIcbgconverter_OnGithub_bmp2cbg\bmp2cbg\x64\Release\bmp2cbg.exe
